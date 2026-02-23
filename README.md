@@ -1,18 +1,15 @@
 <h1 align="center">Hi, I'm Pratham Desai</h1>
 <h3 align="center">Computer Science student at Rutgers University NB</h3>
 
-- 🔭 I’m currently working on **FPL Minileague Analyzer**
+I’m currently working on **Java 2D Engine**
 
-- 🌱 I’m currently learning **TensorFlow, R, PyTorch**
+I’m currently learning **TensorFlow, R, PyTorch**
 
-- How to reach me **prathamd260@gmail.com**
+How to reach me **prathamd260@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prathamd14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamd14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-d-830713285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-d-830713285" height="30" width="40" /></a>
-<a href="https://instagram.com/pratham.desaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham.desaii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prathamd260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathamd260" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0vuhhrhgdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0vuhhrhgdt" height="30" width="40" /></a>
 </p>
 
