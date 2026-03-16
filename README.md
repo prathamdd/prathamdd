@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Core Engineering**
 <p align="left">
