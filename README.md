@@ -5,45 +5,48 @@
 
 ---
 
-### Currently Building
-* **[OmniStat](https://github.com/your-repo)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
-* **FPL Analyzer**: Developing a full-stack web app to bring advanced analytics to my FPL mini-league.
+### 🚀 Currently Building & Researching
+* [cite_start]**[OmniStat](https://github.com/prathamdd)**: A real-time distributed data pipeline architected with **.NET 9** and **C#**[cite: 30]. [cite_start]I used **Redis Pub/Sub** for fault isolation and **SignalR (WebSockets)** for live streaming updates[cite: 31, 32].
+* [cite_start]**Vision-Language Research**: Analyzing failure modes in complex AI models using **PyTorch** to evaluate 225K+ medical images[cite: 15, 16].
+* [cite_start]**FPL Analyzer**: A full-stack platform built with **React**, **Node.js**, and **Chart.js** to visualize custom league metrics[cite: 33, 35, 36].
 
-### Interests & Background
-I enjoy the intersection of **low-level systems** and **abstract logic**. Whether I'm optimizing a Java-based chess engine or analyzing symbolic logic proofs, I'm driven by how complex systems can be broken down into elegant solutions.
+### 🧠 Interests & Background
+[cite_start]I’m a **Data Structures TA** and a Philosophy major, which means I spend as much time thinking about **algorithm analysis** as I do about the **Ethics of AI**[cite: 9, 18, 23]. [cite_start]I’m driven by the challenge of making distributed systems both high-performance and logically sound[cite: 41].
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-**Core Engineering**
+**Languages & Core Engineering**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-**Data & Infrastructure**
+**Distributed Systems & Infrastructure**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
 </p>
 
-**Web Development**
+**Web & Data Visualization**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
 </p>
 
 ---
 
-### Contact me
-* **Email:** prathamd260@gmail.com
-* **School Email:** [prathamm.desai@rutgers.edu]
+### 📫 Connect with me
+* **Email:** prathamd260@gmail.com 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdd&show_icons=true&locale=en&layout=compact" alt="prathamdd" />
