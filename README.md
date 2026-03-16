@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Pratham Desai</h1>
-<h3 align="center">Computer Science student at Rutgers University NB</h3>
+<h3 align="center">Computer Science student at Rutgers University New Brunswick</h3>
 
 I’m currently working on **Omnistat. A real-time distributed data pipeline.**
-
-I’m currently learning **TensorFlow, R, PyTorch**
 
 How to reach me **prathamd260@gmail.com**
 
