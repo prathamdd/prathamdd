@@ -5,13 +5,13 @@
 
 ---
 
-### 🚀 Currently Building & Researching
-* [cite_start]**[OmniStat](https://github.com/prathamdd)**: A real-time distributed data pipeline architected with **.NET 9** and **C#**[cite: 30]. [cite_start]I used **Redis Pub/Sub** for fault isolation and **SignalR (WebSockets)** for live streaming updates[cite: 31, 32].
-* [cite_start]**Vision-Language Research**: Analyzing failure modes in complex AI models using **PyTorch** to evaluate 225K+ medical images[cite: 15, 16].
-* [cite_start]**FPL Analyzer**: A full-stack platform built with **React**, **Node.js**, and **Chart.js** to visualize custom league metrics[cite: 33, 35, 36].
+## Currently Building
+* **[OmniStat](https://github.com/your-repo)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
+* **FPL Analyzer**: Developing a full-stack web app to bring advanced analytics to my FPL mini-league.
 
-### 🧠 Interests & Background
-[cite_start]I’m a **Data Structures TA** and a Philosophy major, which means I spend as much time thinking about **algorithm analysis** as I do about the **Ethics of AI**[cite: 9, 18, 23]. [cite_start]I’m driven by the challenge of making distributed systems both high-performance and logically sound[cite: 41].
+### Interests & Background
+I am a developer and strategist focused on the bridge between complex infrastructure and actionable insights. From architecting real-time data pipelines to facilitating technical recitations as a TA, I specialize in translating abstract technical challenges into efficient, high-impact products.
+---
 
 ---
 
@@ -46,7 +46,8 @@
 ---
 
 ### 📫 Connect with me
-* **Email:** prathamd260@gmail.com 
+* **Email:** prathamd260@gmail.com
+* **School Email:** prathamm.desai@rutgers.edu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdd&show_icons=true&locale=en&layout=compact" alt="prathamdd" />
