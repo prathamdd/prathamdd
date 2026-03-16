@@ -5,16 +5,16 @@
 
 ---
 
-### 🚀 Currently Building
+### Currently Building
 * **[OmniStat](https://github.com/your-repo)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
 * **FPL Analyzer**: Developing a full-stack web app to bring advanced analytics to my FPL mini-league.
 
-### 🧠 Interests & Background
+### Interests & Background
 I enjoy the intersection of **low-level systems** and **abstract logic**. Whether I'm optimizing a Java-based chess engine or analyzing symbolic logic proofs, I'm driven by how complex systems can be broken down into elegant solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core Engineering**
 <p align="left">
@@ -42,9 +42,9 @@ I enjoy the intersection of **low-level systems** and **abstract logic**. Whethe
 
 ---
 
-### 📫 Connect with me
+### Contact me
 * **Email:** prathamd260@gmail.com
-* **LinkedIn:** [Your Profile Link Here]
+* **School Email:** [prathamm.desai@rutgers.edu]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdd&show_icons=true&locale=en&layout=compact" alt="prathamdd" />
