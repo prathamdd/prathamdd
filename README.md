@@ -6,7 +6,7 @@
 ---
 
 ## Currently Building
-* **[OmniStat](https://github.com/your-repo)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
+* **[OmniStat](https://github.com/OmniStat)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
 * **FPL Analyzer**: Developing a full-stack web app to bring advanced analytics to my FPL mini-league.
 
 ### Interests & Background
