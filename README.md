@@ -10,7 +10,8 @@
 * **FPL Analyzer**: Developing a full-stack web app to bring advanced analytics to my FPL mini-league.
 
 ### Interests & Background
-I am a developer and strategist focused on the bridge between complex infrastructure and actionable insights. From architecting real-time data pipelines to facilitating technical recitations as a TA, I specialize in translating abstract technical challenges into efficient, high-impact products.
+
+* **I am a developer and strategist focused on the bridge between complex infrastructure and actionable insights. From architecting real-time data pipelines to facilitating technical recitations as a TA, I specialize in translating abstract technical challenges into efficient, high-impact products
 ---
 
 ---
