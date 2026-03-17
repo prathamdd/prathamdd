@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pratham Desai</h1>
 <p align="center">
-  <b>CS & Philosophy @ Rutgers University</b> | Building Scalable Systems & Thinking Deeply
+  <b>CS & Philosophy @ Rutgers University</b>
 </p>
 
 ---
