@@ -11,7 +11,7 @@
 
 ### Interests & Background
 
-* I am a developer focused on the bridge between complex infrastructure and actionable insights. From architecting real-time data pipelines to focusing on user-centric product design, I specialize in translating abstract technical challenges into efficient, high-impact products.
+*I build systems that turn complex infrastructure into clear, useful insights. I focus on real-time data pipelines and user-centered product design, translating technical challenges into efficient, high-impact products.
 ---
 
 ---
