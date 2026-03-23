@@ -10,7 +10,7 @@
 * **FPL Analyzer**: Developed a full-stack web app to bring advanced analytics to your FPL mini-league.
 
 ### Interests & Background
-* I build systems that turn complex infrastructure into clear, useful insights. I focus on real-time data pipelines and user-centered product design, translating technical challenges into efficient, high-impact products. 
+* I aim to build systems that turn complex infrastructure into clear, useful insights. I focus on real-time data pipelines and user-centered product design, translating technical challenges into efficient, high-impact products. 
 ---
 
 ---
