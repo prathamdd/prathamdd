@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratham Desai</h1>
 <p align="center">
   <b>CS & Philosophy @ Rutgers University</b><br>
-  <b>Incoming Software Engineering Intern @ Fiserv (Summer 2026)</b>
+  <b> Software Engineering Intern @ Fiserv (Summer 2026)</b>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 * I aim to build systems that turn complex infrastructure into clear, useful insights. I focus on real-time data pipelines and user-centered product design, translating technical challenges into efficient, high-impact products.
 
 ## Currently
-* Learning **Spring Boot** and the **Spring Ecosystem** for my upcoming internship
+* Learning **Spring Boot** and the **Spring Ecosystem** for my upcoming internship.
 
 ---
 
