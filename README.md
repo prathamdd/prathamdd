@@ -7,7 +7,7 @@
 ---
 
 ## Projects Built
-* **[OmniStat](https://github.com/prathamdd/OmniStat)**: A real-time distributed data pipeline. I'm currently tackling challenges in data consistency and high-throughput stream processing.
+* **[OmniStat](https://github.com/prathamdd/OmniStat)**: A real-time distributed data pipeline that displays real time NBA scores.
 * **FPL Analyzer**: Developed a full-stack web app to bring advanced analytics to your FPL mini-league.
 
 ### Interests & Background
