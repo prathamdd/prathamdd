@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-I'm a Computer Science and Philosophy student at Rutgers University. My background combines systems-level engineering with formal philosophical logic, helping me reason through complex edge cases, distributed concurrency, and clean API design.
+I'm a Computer Science and Philosophy student at Rutgers University. My background combines systems-level engineering with formal logic, helping me reason through complex edge cases, distributed concurrency, and clean API design.
 
 ---
 
