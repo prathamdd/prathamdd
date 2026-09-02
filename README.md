@@ -1,64 +1,73 @@
 <h1 align="center">Hi, I'm Pratham Desai</h1>
 <p align="center">
   <b>CS & Philosophy @ Rutgers University</b><br>
-  <b> Software Engineering Intern @ Fiserv (Summer 2026)</b>
+  <b>Software Engineering Intern @ Fiserv</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-d-830713285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prathamd260@gmail.com"><img src="https://img.shields.io/badge/Email-prathamd260%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/prathamdd"><img src="https://img.shields.io/badge/GitHub-prathamdd-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
 
-## Projects Built
-* **[OmniStat](https://github.com/prathamdd/OmniStat)**: A real-time distributed data pipeline that displays real time NBA scores.
-* **FPL Analyzer**: Developed a full-stack web app to bring advanced analytics to your FPL mini-league.
-
-### Interests & Background
-* I aim to build systems that turn complex infrastructure into clear, useful insights. I focus on real-time data pipelines and user-centered product design, translating technical challenges into efficient, high-impact products.
-
-## Currently
-* Learning **Spring Boot** and the **Spring Ecosystem** for my upcoming internship.
+### About Me
+I'm a Computer Science and Philosophy student at Rutgers University. My background combines systems-level engineering with formal philosophical logic, helping me reason through complex edge cases, distributed concurrency, and clean API design.
 
 ---
 
-### Tech Stack
+### Featured Projects
 
-**Languages & Core Engineering**
+* **[OmniStat](https://github.com/prathamdd/OmniStat)** (`.NET`, `C#`, `Python`, `Redis Pub/Sub`, `Docker`)
+  * High-concurrency, real-time distributed data pipeline streaming live sports metadata with sub-second latency.
+  * Leverages Redis Pub/Sub for decoupled fault isolation and SignalR WebSockets to deliver immediate push updates to clients.
+
+* **[FPL Minileague Analyzer](https://github.com/prathamdd)** (`Node.js`, `JavaScript`, `Chart.js`, `Azure`)
+  * Full-stack analytics application deployed to production on Azure, actively serving 15+ users.
+  * Implemented an in-memory caching layer to eliminate redundant external REST calls and built custom Chart.js visualizations for deep league metrics.
+
+---
+
+### Technical Skills
+
+**Languages**
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/><br/><sub>Python</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38"/><br/><sub>Java</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="38" height="38"/><br/><sub>C#</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38"/><br/><sub>C++</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/><br/><sub>C</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/><br/><sub>JavaScript</sub></td>
   </tr>
 </table>
 
-**Distributed Systems & Infrastructure**
+**Frameworks, Cloud & Distributed Systems**
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="38" height="38"/><br/><sub>Spring Boot</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="38" height="38"/><br/><sub>.NET</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="38" height="38"/><br/><sub>Redis</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="38" height="38"/><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="38" height="38"/><br/><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="38" height="38"/><br/><sub>Node.js</sub></td>
   </tr>
 </table>
 
-**Web & Data Visualization**
+**Databases & DevOps**
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="38" height="38"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="actions" width="38" height="38"/><br/><sub>GitHub Actions</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="38" height="38"/><br/><sub>Azure</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/><br/><sub>Linux</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/><br/><sub>Git</sub></td>
   </tr>
 </table>
 
 ---
-
-### 📫 Connect with me
-* **Email:** prathamd260@gmail.com
-* **School Email:** prathamm.desai@rutgers.edu
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdd&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdd&theme=radical" alt="GitHub Streak" height="165" />
 </p>
