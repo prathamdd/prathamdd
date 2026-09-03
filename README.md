@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pratham Desai</h1>
+<h1 align="center">Hi, I'm Pratham</h1>
 <p align="center">
   <b>CS & Philosophy @ Rutgers University</b><br>
   <b>Software Engineering Intern @ Fiserv</b>
