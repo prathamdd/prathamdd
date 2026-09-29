@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pratham</h1>
 <p align="center">
   <b>CS & Philosophy @ Rutgers University</b><br>
-  <b>Software Engineering Intern @ Fiserv</b>
+  <b>Prev. Software Engineering Intern @ Fiserv</b>
 </p>
 
 <p align="center">
