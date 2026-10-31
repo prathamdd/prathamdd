@@ -68,6 +68,3 @@ I'm a Computer Science and Philosophy student at Rutgers University. My backgrou
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdd&theme=radical" alt="GitHub Streak" height="165" />
-</p>
